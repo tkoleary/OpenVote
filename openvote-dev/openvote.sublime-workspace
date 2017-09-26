@@ -1,0 +1,566 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"color"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"sm",
+				"smaller"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"text",
+				"text-underline-position"
+			],
+			[
+				"font-variant-e",
+				"font-variant-east-asian"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"text-o",
+				"text-overflow"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/terrenceoleary/sites/OpenVote",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-dev",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-dev/src",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-dev/src/assets",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-dev/src/components",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-dev/src/router",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-dev/static"
+	],
+	"file_history":
+	[
+		"/Users/terrenceoleary/sites/OpenVote/openvote-dev/src/router/index.js",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-dev/src/App.vue",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-dev/src/components/Next.vue",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-dev/src/components/Hello.vue",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-dev/src/main.js",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-dev/package.json",
+		"/Users/terrenceoleary/sites/democracyos/config/development.json",
+		"/Users/terrenceoleary/sites/vue-vote/models/Poll.js",
+		"/Users/terrenceoleary/sites/vue-vote/package.json",
+		"/Users/terrenceoleary/sites/vue-vote/src/server-entry.js",
+		"/Users/terrenceoleary/sites/vue-vote/build/vue-loader.config.js",
+		"/Users/terrenceoleary/sites/vue-vote/server.js",
+		"/Users/terrenceoleary/sites/vue-vote/build/setup-dev-server.js",
+		"/Users/terrenceoleary/sites/vue-vote/yarn.lock",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/access/index.html",
+		"/Users/terrenceoleary/Downloads/CustomFileInputs/index.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/static/3rdParty/custom-file-input/custom-file-input.js",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/prototype.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/update-rolls.html",
+		"/Users/terrenceoleary/Desktop/actions-dropdown-snippet.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/elections.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/index.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/ballot.html",
+		"/Users/terrenceoleary/Desktop/voter-roll-markup-sinppet.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/ballot-reverse.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/access/prototype.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/manual-entry/index.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/access/GeneralBallot2.html",
+		"/Users/terrenceoleary/Downloads/Happy Sound With Sustain.wav",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/cast/index.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/access/GeneralBallot.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/access/digitalballot.js",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/access/qrcode.js",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/static/clearBallot/css/cbg-global.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/design/index.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/count-alerts.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/count-user.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/count-navigation.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/count-pageheader.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/design/prototype.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/canvass-summary.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/style.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/design/contest-modal.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/static/3rdParty/sb-admin-2/css/sb-admin-2.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/index.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/static/3rdParty/sb-admin-2/js/sb-admin-2.js",
+		"/Volumes/webdav/Design and Usability/UI-prototypes/prototypes/design/index.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/index.html",
+		"/Volumes/webdav/Design and Usability/Clearballot-admin/prototypes/write-ins/index.html",
+		"/Volumes/webdav/Design and Usability/Clearballot-admin/index.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/design/contests-2.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/count-dependencies.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/write-ins/adjudicate.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/manual-entry/pages/index.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/manual-entry/pages/manual-entry.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/count-edit.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/count/count-adjudicate-panel.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/cast/cast-page.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/index.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/waving-flag/style.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/waving-flag/flag.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/waving-flag/style.scss",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/manual-entry/pages/prototype.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/manual-entry/pages/blank.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/write-ins/prototype.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/static/clearBallot/css/base.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/dist/css/clearballot_styles.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/write-ins/bootstrap-slider.js",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/static/clearBallot/js/base.js",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/static/clearBallot/js/cbg.js",
+		"/Users/terrenceoleary/sites/src-writein/Write-in_tool/media/css/adjudicate.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/cast/prototype.css",
+		"/Users/terrenceoleary/sites/src-writein/Write-in_tool/adjudicate.html",
+		"/Users/terrenceoleary/sites/src-writein/Write-in_tool/package.json",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/static/clearBallot/css/fonts.css",
+		"/Users/terrenceoleary/sites/src-designs/.hgignore",
+		"/Users/terrenceoleary/Desktop/en-US.txt",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/tables.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/design/design.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/morris.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/donut-chart.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/login.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/notifications.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/panels-wells.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/typography.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/icons.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/grid.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/forms.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/buttons.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/data/morris-data.js",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/manual-entry/manual-entry.css",
+		"/Users/terrenceoleary/sites/ClearBallot/Manual-entry/dist/css/sb-admin-2.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/manual-entry/dist/css/sb-admin-2.css",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/less/sb-admin-2.less",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/flot.html",
+		"/Users/terrenceoleary/sites/src-designs/Clearballot-admin/prototypes/general-admin/pages/blank.html",
+		"/Users/terrenceoleary/sites/ClearBallot/Manual-entry/less/sb-admin-2.less",
+		"/Users/terrenceoleary/sites/ClearBallot/Manual-entry/pages/index.html",
+		"/Users/terrenceoleary/sites/ClearBallot/Manual-entry/README.md",
+		"/Users/terrenceoleary/sites/ClearBallot/Manual-entry/pages/blank.html",
+		"/Users/terrenceoleary/sites/ClearBallot/Clearballot-admin/font-awesome-clearballot",
+		"/Users/terrenceoleary/sites/ClearBallot/Manual-entry/package.json",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/bower.json",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/dist/css/clearballot_styles.css",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/icons.html",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/typography.html",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/tables.html",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/panels-wells.html",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/notifications.html",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/login.html",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/morris.html",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/index.html",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/grid.html",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/forms.html",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/flot.html",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/buttons.html",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/blank.html",
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/index.html",
+		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/typography.html",
+		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/tables.html",
+		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/panels-wells.html",
+		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/notifications.html",
+		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/morris.html",
+		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/login.html",
+		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/icons.html",
+		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/grid.html",
+		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/forms.html",
+		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/blank.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"open",
+			"mongo",
+			"open",
+			"mongo",
+			"open()",
+			"useMongoClient",
+			"open()",
+			"open",
+			"mong",
+			"mongo",
+			"../../../",
+			"class=\"cr\"",
+			"how",
+			"badge",
+			"fa",
+			"actions",
+			"how-to",
+			"ballot-text",
+			"ballot-info",
+			"ballot",
+			"how",
+			"count",
+			"choice-text",
+			"choice",
+			"header-text",
+			"party",
+			"running",
+			"choice",
+			"header",
+			"page",
+			"ballot",
+			"header",
+			"choice-label",
+			"choice",
+			"trans",
+			"how",
+			"radio",
+			"focus",
+			"outline",
+			"tabindex",
+			"focusable",
+			"class=\"focusable\"",
+			"focusable",
+			"tabindex",
+			"review",
+			"run",
+			"running",
+			"part",
+			"how",
+			"review",
+			"help",
+			"back",
+			"previous",
+			"btn",
+			"select",
+			"tabindex",
+			"auto",
+			"scroll",
+			"focusable",
+			"focus",
+			"focusable",
+			"scroll",
+			"section",
+			"navbar",
+			"choice",
+			"label",
+			"choice",
+			"help",
+			"<br>",
+			"class=\"button",
+			".button",
+			"outline",
+			"ballot",
+			"check",
+			" >",
+			" \">",
+			"=X",
+			"=\"%",
+			"tabindex",
+			"    ",
+			".checkbox",
+			"glyphicon glyphicon-ok",
+			"glyphicon glyphicon-ok-sign",
+			"<input type=\"radio\" value=\"\">",
+			"<input type=\"radio\"/>",
+			"ballot-text",
+			"vertical",
+			"middle",
+			"checkbox",
+			"xchoice",
+			"\"choice focusable\"",
+			"type=\"checkbox\"/",
+			"type=\"checkbox\"",
+			"glyphicon-ok\"></i></span>\n                                </div>",
+			"<div class=\"vote-mark-wrapper\">",
+			"type=\"checkbox\"/>",
+			"type=\"checkbox\"",
+			"<div class=\"vote-mark\"></div>",
+			"</p>\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>",
+			"div aria-checked=\"false\"",
+			"style=\"",
+			"style=\"\"",
+			"style=\"line-height: 10.6666679382324px;\"",
+			"style=\"height: 110px;\"",
+			"style=\"height: 110px; \"",
+			"style=\"height: 20px;\"",
+			"style=\"height: 20px; \"",
+			"display: block;",
+			"display: none;",
+			"settings",
+			"dash",
+			"style=\"text-decoration: underline;\"",
+			"<li>",
+			"<br/>",
+			"</tr>",
+			"</td>",
+			"<td>",
+			"<tr>",
+			"&nbsp;",
+			"href=\"#\"",
+			"arrow",
+			" style=",
+			" style=\"width:20em;\"",
+			"style=\"vertical-align: top; display: none;\"",
+			"style=\"vertical-align: top; white-space: nowrap; display: none;\"",
+			" style=\"width:3em;\"",
+			"style=\"width:10em;\"",
+			"style=\"width:8em;\""
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../../",
+			"tabindex=\"0\"",
+			"class=\"btn btn-default",
+			".btn .btn-default",
+			"fa fa-check",
+			"fa fa-circle",
+			"<input type=\"radio\" value=\"\"><span class=\"cr\"><i class=\"cr-icon glyphicon glyphicon-ok-sign\"></i></span>\n                                </label>",
+			"<input type=\"radio\" value=\"\">",
+			"x choice",
+			"\"xchoice focusable\"",
+			"type=\"checkbox\" value=\"\"",
+			"glyphicon-ok\"></i></span></label>\n                                </div>",
+			"<div class=\"checkbox\">",
+			"<div class=\"vote-mark-wrapper\"><label>",
+			"type=\"checkbox\"/><span class=\"cr\"><i class=\"cr-icon glyphicon glyphicon-ok\"></i></span>",
+			"<input type=\"checkbox\"/>",
+			"</p>\n                                        </div>\n                                    </div>\n                                </div>\n                            </input>",
+			"input type=\"checkbox\" aria-checked=\"false\"",
+			"href=\"other.html\"",
+			"chevron",
+			"",
+			"<i class=\"fa fa-chevron-down\" aria-hidden=\"true\"></i>",
+			"nav-label\"",
+			"<li>\n                                    <a href=\"#\" class=\"nav-label",
+			"<a href=\"#\"><span class=\"fa arrow\"></span>",
+			"Parties",
+			"../../static",
+			"navbar-static-top navbar-inverse",
+			"#drupal-offcanvas",
+			"",
+			"}",
+			"#drupal-offcanvas",
+			".ui-dialog-offcanvas",
+			".ui-front.ui-dialog-offcanvas",
+			".ui-dialog-offcanvas",
+			"offcanvas",
+			"",
+			"\") screen;",
+			"#drupal-offcanvas",
+			".ui-dialog-offcanvas",
+			"offcanvas",
+			"background-image: none;",
+			"",
+			"background-image: none;",
+			"text-shadow: none;",
+			"background-color: #444;",
+			"input.form"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "openvote.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
