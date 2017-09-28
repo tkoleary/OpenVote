@@ -1,0 +1,11 @@
+.form-check {
+	text-align: left;
+	border: 1px solid #ddd;
+	padding: 1em;
+}
+legend {
+	text-align: left !important;
+}
+button {
+	float: left;
+}

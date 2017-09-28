@@ -128,11 +128,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/terrenceoleary/sites/OpenVote/openvote-react"
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src"
 	],
 	"file_history":
 	[
 		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/App.js",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/tooltip.js",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/logo.svg",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/index.js",
 		"/Users/terrenceoleary/Desktop/zoomimage/style.css",
 		"/Users/terrenceoleary/Desktop/zoomimage/zoomimage.html",
 		"/Users/terrenceoleary/sites/OpenVote/openvote-dev/src/router/index.js",
@@ -256,10 +260,7 @@
 		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/typography.html",
 		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/tables.html",
 		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/panels-wells.html",
-		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/notifications.html",
-		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/morris.html",
-		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/login.html",
-		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/icons.html"
+		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/notifications.html"
 	],
 	"find":
 	{

@@ -1,0 +1,26 @@
+[
+	{
+		  "contestName":"President",
+		  "choices": {
+		    "choice1":"Bob",
+		    "choice2":"Jim",
+		    "choice3":"Bill"
+		  }
+		},
+	{
+		"contestName":"Senator",
+		"choices": {
+		    "choice1":"Mary",
+		    "choice2":"Jane",
+		    "choice3":"Sue"
+		}
+	},
+	{
+	  "contestName":"Representative",
+	  "choices": {
+	      "choice1":"Moe",
+	      "choice2":"Larry",
+	      "choice3":"Curley"
+	  }
+	}
+]
