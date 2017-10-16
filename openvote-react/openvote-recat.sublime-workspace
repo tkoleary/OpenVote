@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"choice",
+				"choiceName"
+			],
+			[
 				"col",
 				"color"
 			],
@@ -104,17 +108,23 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "",
+		"last_filter": "Package Control: ",
 		"selected_items":
 		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 392.0
+		"width": 412.0
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 139.0,
 		"history":
 		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
 		]
 	},
 	"distraction_free":
@@ -129,11 +139,19 @@
 	"expanded_folders":
 	[
 		"/Users/terrenceoleary/sites/OpenVote/openvote-react",
-		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src"
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/data"
 	],
 	"file_history":
 	[
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/choice.js",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/contest.js",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/ballot.js",
 		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/App.js",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/election.js",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/data/generalElection.json",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react/node_modules/reactstrap/lib/Input.js",
+		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/Form.css",
 		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/tooltip.js",
 		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/logo.svg",
 		"/Users/terrenceoleary/sites/OpenVote/openvote-react/src/index.js",
@@ -253,18 +271,11 @@
 		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/index.html",
 		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/grid.html",
 		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/forms.html",
-		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/flot.html",
-		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/buttons.html",
-		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/blank.html",
-		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/index.html",
-		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/typography.html",
-		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/tables.html",
-		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/panels-wells.html",
-		"/Users/terrenceoleary/Desktop/Clearballot-admin/pages/notifications.html"
+		"/Users/terrenceoleary/Documents/ClearBallot/Products/prototypes/Clearballot-admin/pages/flot.html"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -279,6 +290,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"rows",
+			"class=",
 			"open",
 			"mongo",
 			"open",
@@ -404,9 +417,7 @@
 			" style=\"width:20em;\"",
 			"style=\"vertical-align: top; display: none;\"",
 			"style=\"vertical-align: top; white-space: nowrap; display: none;\"",
-			" style=\"width:3em;\"",
-			"style=\"width:10em;\"",
-			"style=\"width:8em;\""
+			" style=\"width:3em;\""
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -482,7 +493,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 37.0
 	},
 	"layout":
 	{

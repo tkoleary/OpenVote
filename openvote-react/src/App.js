@@ -3,12 +3,6 @@ import MyTooltip from './tooltip.js';
 import Ballot from './ballot.js';
 import './App.css';
 
-const CONTESTS =[
-  {name: "President", choices: [ 'Bob', 'Jim', 'Bill' ]},
-  {name: "Senator", choices: [ 'Mary', 'jane', 'Sue' ]},
-  {name: "Representative", choices: [ 'Moe', 'Larry', 'Curley' ]}
-]
-
 class App extends Component {
   render() {
     return (
